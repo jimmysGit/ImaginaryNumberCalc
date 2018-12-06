@@ -1,5 +1,5 @@
 import java.io.*;
-//Provided by Mark Upston for use
+//File was provided by Mark Upston and is not my work
 public class ConsoleInput
 {
    InputStreamReader isr = new InputStreamReader(System.in);
